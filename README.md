@@ -3,6 +3,7 @@
 
 #### 1. 效果图
 ![img2](https://github.com/chenhongch/LoadingHud/blob/master/img2.gif)
+
 #### 2. 使用
 可以在所有继承于UIView的控件上使用。
  导入头文件#import "UIView+LoadingHud.h"
