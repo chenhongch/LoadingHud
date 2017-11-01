@@ -1,11 +1,11 @@
 # LoadingHud
 给控件添加小菊花，自定义菊花位置和颜色
 
-#### 1. 效果图
+####  1. 效果图
 
 ![img2](https://github.com/chenhongch/LoadingHud/blob/master/img2.gif)
 
-#### 2. 使用
+####  2. 使用
 可以在所有继承于UIView的控件上使用。
  导入头文件#import "UIView+LoadingHud.h"
  
