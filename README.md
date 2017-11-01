@@ -2,6 +2,7 @@
 给控件添加小菊花，自定义菊花位置和颜色
 
 #### 1. 效果图
+
 ![img2](https://github.com/chenhongch/LoadingHud/blob/master/img2.gif)
 
 #### 2. 使用
